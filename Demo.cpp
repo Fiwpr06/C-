@@ -3,5 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "Hello !" << endl;
+    for (int a = 0; a < n; a++)
+        cout << "Hello !" << endl;
 }
